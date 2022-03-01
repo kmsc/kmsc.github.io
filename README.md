@@ -1,1 +1,1 @@
-# kmsc.github.io
+# Simple Demo (without project photos)
